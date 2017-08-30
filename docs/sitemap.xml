@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>http://mapcolabora.org/mapcolabora-hugo/blog/2017-08-30-presentacion-opensource-economic-days/</loc>
+    <lastmod>2017-06-12T12:46:24+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://mapcolabora.org/mapcolabora-hugo/post/2017-03-20-photoswipe-gallery-sample/</loc>
     <lastmod>2017-03-20T00:00:00+00:00</lastmod>
   </url>
@@ -146,6 +151,16 @@
   </url>
   
   <url>
+    <loc>http://mapcolabora.org/mapcolabora-hugo/tags/presentaciones/</loc>
+    <lastmod>2017-06-12T12:46:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://mapcolabora.org/mapcolabora-hugo/project/</loc>
+  </url>
+  
+  <url>
     <loc>http://mapcolabora.org/mapcolabora-hugo/tags/qu%C3%A9-hacemos/</loc>
     <lastmod>2017-08-24T10:47:53+02:00</lastmod>
     <priority>0</priority>
@@ -159,6 +174,10 @@
     <loc>http://mapcolabora.org/mapcolabora-hugo/tags/</loc>
     <lastmod>2017-03-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://mapcolabora.org/mapcolabora-hugo/project/zaragoza-accesible/</loc>
   </url>
   
   <url>
