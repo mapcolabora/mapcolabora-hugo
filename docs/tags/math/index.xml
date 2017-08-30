@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Math on Mapeado Colaborativo</title>
-    <link>http://mapcolabora.org/tags/math/</link>
+    <link>http://mapcolabora.org/mapcolabora-hugo/tags/math/</link>
     <description>Recent content in Math on Mapeado Colaborativo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
@@ -10,15 +10,15 @@
     <webMaster>mapeadocolaborativo@gmail.com (Mapeado Colaborativo)</webMaster>
     <lastBuildDate>Sun, 05 Mar 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://mapcolabora.org/tags/math/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://mapcolabora.org/mapcolabora-hugo/tags/math/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Math Sample</title>
-      <link>http://mapcolabora.org/post/2017-03-05-math-sample/</link>
+      <link>http://mapcolabora.org/mapcolabora-hugo/post/2017-03-05-math-sample/</link>
       <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
       <author>mapeadocolaborativo@gmail.com (Mapeado Colaborativo)</author>
-      <guid>http://mapcolabora.org/post/2017-03-05-math-sample/</guid>
+      <guid>http://mapcolabora.org/mapcolabora-hugo/post/2017-03-05-math-sample/</guid>
       <description>&lt;p&gt;KaTeX can be used to generate complex math formulas server-side.&lt;/p&gt;
 
 &lt;p&gt;$$
