@@ -78,9 +78,17 @@
   </url>
   
   <url>
+    <loc>http://mapcolabora.org/mapcolabora-hugo/people/alejandro-suarez/</loc>
+  </url>
+  
+  <url>
     <loc>http://mapcolabora.org/mapcolabora-hugo/tags/bigimg/</loc>
     <lastmod>2017-03-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://mapcolabora.org/mapcolabora-hugo/people/carlos-camara/</loc>
   </url>
   
   <url>
@@ -101,6 +109,10 @@
   </url>
   
   <url>
+    <loc>http://mapcolabora.org/mapcolabora-hugo/people/hector-ochoa/</loc>
+  </url>
+  
+  <url>
     <loc>http://mapcolabora.org/mapcolabora-hugo/tags/markdown/</loc>
     <lastmod>2015-02-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -113,12 +125,16 @@
   </url>
   
   <url>
+    <loc>http://mapcolabora.org/mapcolabora-hugo/people/miguel-sevilla/</loc>
+  </url>
+  
+  <url>
     <loc>http://mapcolabora.org/mapcolabora-hugo/page/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://mapcolabora.org/mapcolabora-hugo/personas/</loc>
+    <loc>http://mapcolabora.org/mapcolabora-hugo/people/</loc>
   </url>
   
   <url>
