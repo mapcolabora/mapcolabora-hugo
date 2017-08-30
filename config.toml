@@ -110,5 +110,5 @@ weight = 1
 
 [[menu.main]]
     name = "Personas"
-    url = "personas"
+    url = "people"
     weight = 3
