@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://mapcolabora.org/mapcolabora-hugo/blog/2017-01-14-video-red-zac/</loc>
-    <lastmod>2017-08-24T10:47:53+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://mapcolabora.org/mapcolabora-hugo/post/2017-01-14-video-red-zac/</loc>
     <lastmod>2017-08-24T10:47:53+02:00</lastmod>
   </url>
@@ -18,7 +13,7 @@
   </url>
   
   <url>
-    <loc>http://mapcolabora.org/mapcolabora-hugo/blog/2017-08-30-presentacion-opensource-economic-days/</loc>
+    <loc>http://mapcolabora.org/mapcolabora-hugo/post/2017-08-30-presentacion-opensource-economic-days/</loc>
     <lastmod>2017-06-12T12:46:24+02:00</lastmod>
   </url>
   
@@ -85,12 +80,6 @@
   <url>
     <loc>http://mapcolabora.org/mapcolabora-hugo/tags/bigimg/</loc>
     <lastmod>2017-03-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://mapcolabora.org/mapcolabora-hugo/blog/</loc>
-    <lastmod>2017-08-24T10:47:53+02:00</lastmod>
     <priority>0</priority>
   </url>
   
