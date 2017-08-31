@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Mapeado Colaborativo</title>
-    <link>http://mapcolabora.org/mapcolabora-hugo/page/</link>
+    <link>http://mapcolabora.org/page/</link>
     <description>Recent content in Pages on Mapeado Colaborativo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <managingEditor>mapeadocolaborativo@gmail.com (Mapeado Colaborativo)</managingEditor>
     <webMaster>mapeadocolaborativo@gmail.com (Mapeado Colaborativo)</webMaster>
     
-	<atom:link href="http://mapcolabora.org/mapcolabora-hugo/page/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://mapcolabora.org/page/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Sobre nosotros</title>
-      <link>http://mapcolabora.org/mapcolabora-hugo/page/about/</link>
+      <link>http://mapcolabora.org/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>mapeadocolaborativo@gmail.com (Mapeado Colaborativo)</author>
-      <guid>http://mapcolabora.org/mapcolabora-hugo/page/about/</guid>
+      <guid>http://mapcolabora.org/page/about/</guid>
       <description>Mapeado Colaborativo es uno de los grupos residentes en Zaragoza Activa que nace en marzo de 2016 como grupo de investigación/acción para la innovación ciudadana y la canalización de la inteligencia colectiva. Su fin es la creación de mapas colaborativos al servicio de la ciudadanía, a través de la concienciación sobre la importancia de la información geográfica en nuestro día a día y la promoción de herramientas y conocimientos para que colectivos y personas tengan la capacidad de realizar procesos de generación de información geográfica voluntaria y participativa.</description>
     </item>
     

@@ -2,24 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Proyectos on Mapeado Colaborativo</title>
-    <link>http://mapcolabora.org/mapcolabora-hugo/project/</link>
+    <link>http://mapcolabora.org/project/</link>
     <description>Recent content in Proyectos on Mapeado Colaborativo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <managingEditor>mapeadocolaborativo@gmail.com (Mapeado Colaborativo)</managingEditor>
     <webMaster>mapeadocolaborativo@gmail.com (Mapeado Colaborativo)</webMaster>
     
-	<atom:link href="http://mapcolabora.org/mapcolabora-hugo/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://mapcolabora.org/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Zaragoza Accesible</title>
-      <link>http://mapcolabora.org/mapcolabora-hugo/project/zaragoza-accesible/</link>
+      <link>http://mapcolabora.org/project/zaragoza-accesible/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>mapeadocolaborativo@gmail.com (Mapeado Colaborativo)</author>
-      <guid>http://mapcolabora.org/mapcolabora-hugo/project/zaragoza-accesible/</guid>
+      <guid>http://mapcolabora.org/project/zaragoza-accesible/</guid>
       <description>Explicar aquí cosas.
-Enlazar a la etiqueta #Zaccesibilidad</description>
+Enlazar a la etiqueta #Zaccesibilidad
+Aquí debería salir una galería de fotos&amp;hellip;
+  Inicio de toma de datos
+      Toma de datos
+      Toma de datos
+      Ejemplo de datos de campo
+      Introducción de datos en OSM
+      Triangle
+    --  </description>
     </item>
     
   </channel>

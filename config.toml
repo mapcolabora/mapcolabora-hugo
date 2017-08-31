@@ -1,6 +1,6 @@
 publishDir = "docs"
 buildDrafts = false
-baseurl = "http://mapcolabora.org/mapcolabora-hugo/"
+baseurl = "http://mapcolabora.org/"
 languageCode = "es"
 title = "Mapeado Colaborativo"
 theme = "beautifulhugo"
