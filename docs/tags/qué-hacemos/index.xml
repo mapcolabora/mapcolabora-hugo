@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Qué Hacemos on Mapeado Colaborativo</title>
-    <link>http://mapcolabora.org/tags/qu%C3%A9-hacemos/</link>
+    <link>http://mapcolabora.org/mapcolabora-hugo/tags/qu%C3%A9-hacemos/</link>
     <description>Recent content in Qué Hacemos on Mapeado Colaborativo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
@@ -10,15 +10,15 @@
     <webMaster>mapeadocolaborativo@gmail.com (Mapeado Colaborativo)</webMaster>
     <lastBuildDate>Sat, 14 Jan 2017 10:47:53 +0200</lastBuildDate>
     
-	<atom:link href="http://mapcolabora.org/tags/qu%C3%A9-hacemos/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://mapcolabora.org/mapcolabora-hugo/tags/qu%C3%A9-hacemos/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Vídeo para la Red ZAC</title>
-      <link>http://mapcolabora.org/post/2017-01-14-video-red-zac/</link>
+      <link>http://mapcolabora.org/mapcolabora-hugo/post/2017-01-14-video-red-zac/</link>
       <pubDate>Sat, 14 Jan 2017 10:47:53 +0200</pubDate>
       <author>mapeadocolaborativo@gmail.com (Mapeado Colaborativo)</author>
-      <guid>http://mapcolabora.org/post/2017-01-14-video-red-zac/</guid>
+      <guid>http://mapcolabora.org/mapcolabora-hugo/post/2017-01-14-video-red-zac/</guid>
       <description>El pasado mes de enero, desde Zaragoza Activa encargaron la realización de una serie de vídeos para explicar qué hacemos cada uno de sus grupos residentes. Los vídeos, realizados por La Truca Estudio, tienen una duración de dos minutos y muestran de forma muy resumida y clara las actividades que realizamos. Y como estamos muy contentos y agradecidos con el resultado, compartimos el vídeo que han hecho sobre Mapeado Colaborativo</description>
     </item>
     

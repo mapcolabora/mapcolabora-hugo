@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zaragoza Activa on Mapeado Colaborativo</title>
-    <link>http://mapcolabora.org/tags/zaragoza-activa/</link>
+    <link>http://mapcolabora.org/mapcolabora-hugo/tags/zaragoza-activa/</link>
     <description>Recent content in Zaragoza Activa on Mapeado Colaborativo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
@@ -10,24 +10,24 @@
     <webMaster>mapeadocolaborativo@gmail.com (Mapeado Colaborativo)</webMaster>
     <lastBuildDate>Thu, 31 Aug 2017 09:24:44 +0200</lastBuildDate>
     
-	<atom:link href="http://mapcolabora.org/tags/zaragoza-activa/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://mapcolabora.org/mapcolabora-hugo/tags/zaragoza-activa/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Inicio del tercer curso en ZAC</title>
-      <link>http://mapcolabora.org/post/2017-08-26-inicio-3-curso/</link>
+      <link>http://mapcolabora.org/mapcolabora-hugo/post/2017-08-26-inicio-3-curso/</link>
       <pubDate>Thu, 31 Aug 2017 09:24:44 +0200</pubDate>
       <author>mapeadocolaborativo@gmail.com (Mapeado Colaborativo)</author>
-      <guid>http://mapcolabora.org/post/2017-08-26-inicio-3-curso/</guid>
+      <guid>http://mapcolabora.org/mapcolabora-hugo/post/2017-08-26-inicio-3-curso/</guid>
       <description>Tras un curso intenso en el que hemos realizado 2 Mapping Parties, hemos participado en la IV Jornadas de Wikimedia España y en la Ciudad de las bicis y hemos organizado el Mapatón Humanitario en la Semana de la Geografía, y tras el merecido parón estival, empezamos el que será el tercer curso de Mapeado Colaborativo. Así pues, el próximo 12 de septiembre, a las 10:00, nos reunimos de nuevo para preparar el curso, conocernos, intercambiar visiones, proyectos y opiniones y, sobre todo, preparar la que será la primera actividad: la IV Mapping Party #Zaccesibilidad del día 16 de septiembre en el Arrabal, impulsada por el proyecto “Ganchillo Social” en colaboración con Ocio Inclusivo y la Asociación de Vecinos del Arrabal.</description>
     </item>
     
     <item>
       <title>Vídeo para la Red ZAC</title>
-      <link>http://mapcolabora.org/post/2017-01-14-video-red-zac/</link>
+      <link>http://mapcolabora.org/mapcolabora-hugo/post/2017-01-14-video-red-zac/</link>
       <pubDate>Sat, 14 Jan 2017 10:47:53 +0200</pubDate>
       <author>mapeadocolaborativo@gmail.com (Mapeado Colaborativo)</author>
-      <guid>http://mapcolabora.org/post/2017-01-14-video-red-zac/</guid>
+      <guid>http://mapcolabora.org/mapcolabora-hugo/post/2017-01-14-video-red-zac/</guid>
       <description>El pasado mes de enero, desde Zaragoza Activa encargaron la realización de una serie de vídeos para explicar qué hacemos cada uno de sus grupos residentes. Los vídeos, realizados por La Truca Estudio, tienen una duración de dos minutos y muestran de forma muy resumida y clara las actividades que realizamos. Y como estamos muy contentos y agradecidos con el resultado, compartimos el vídeo que han hecho sobre Mapeado Colaborativo</description>
     </item>
     
