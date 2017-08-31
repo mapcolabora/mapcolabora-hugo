@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personas on Mapeado Colaborativo</title>
+    <link>http://mapcolabora.org/mapcolabora-hugo/people/</link>
+    <description>Recent content in Personas on Mapeado Colaborativo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <managingEditor>mapeadocolaborativo@gmail.com (Mapeado Colaborativo)</managingEditor>
+    <webMaster>mapeadocolaborativo@gmail.com (Mapeado Colaborativo)</webMaster>
+    
+	<atom:link href="http://mapcolabora.org/mapcolabora-hugo/people/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Alejandro Suárez</title>
+      <link>http://mapcolabora.org/mapcolabora-hugo/people/alejandro-suarez/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>mapeadocolaborativo@gmail.com (Mapeado Colaborativo)</author>
+      <guid>http://mapcolabora.org/mapcolabora-hugo/people/alejandro-suarez/</guid>
+      <description>Ingeniero Industrial, responsable en la Oficina de Software Libre de UniZar durante dos años, apasionado del Software Libre y miembro de la junta de Púlsar. Contribuidor de OSM desde 2008. t: @alejandroscf</description>
+    </item>
+    
+    <item>
+      <title>Carlos Cámara Menoyo</title>
+      <link>http://mapcolabora.org/mapcolabora-hugo/people/carlos-camara/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>mapeadocolaborativo@gmail.com (Mapeado Colaborativo)</author>
+      <guid>http://mapcolabora.org/mapcolabora-hugo/people/carlos-camara/</guid>
+      <description>Arquitecto. Investigador. Profesor. Estudiante. Interesado en todo lo relacionado con cultura libre y las comodificaciones entre ciudad, tecnología y sociedad. w: carloscamara.es | t: @carlescamara</description>
+    </item>
+    
+    <item>
+      <title>Héctor Ochoa Ortiz</title>
+      <link>http://mapcolabora.org/mapcolabora-hugo/people/hector-ochoa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>mapeadocolaborativo@gmail.com (Mapeado Colaborativo)</author>
+      <guid>http://mapcolabora.org/mapcolabora-hugo/people/hector-ochoa/</guid>
+      <description>Estudiante de Ing. Informática en la Univ. de Zaragoza. Apoyando el conocimiento y la cultura libre, apasionado de los mapas, la movilidad urbana y activo contribuidor de OpenStreetMap en la ciudad de Zaragoza. t: @HOchoa_</description>
+    </item>
+    
+    <item>
+      <title>Miguel Sevilla-Callejo</title>
+      <link>http://mapcolabora.org/mapcolabora-hugo/people/miguel-sevilla/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>mapeadocolaborativo@gmail.com (Mapeado Colaborativo)</author>
+      <guid>http://mapcolabora.org/mapcolabora-hugo/people/miguel-sevilla/</guid>
+      <description>Doctor en Geografía. Investigador. Profesor. Consultor freelance. Interesado en las dinámicas territoriales, las tecnologías de la información geográfica y el software y herramientas libres. t: @msevilla00</description>
+    </item>
+    
+  </channel>
+</rss>
