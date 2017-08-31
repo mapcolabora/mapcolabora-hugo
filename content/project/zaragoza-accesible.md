@@ -31,3 +31,5 @@ Han colaborado también en el proyecto:
 * Centro Cívico Las Esquinas del Psiquiátrico
 * [Ganchillo Social](https://elganchillosocial.wordpress.com/), en colaboración con [Ocio Inclusivo](https://ocioinclusivoarrabal.wordpress.com/) y la Asociación de Vecinos del Arrabal.
 * Decenas de voluntarios que se han unido a nosotros en las distintas mapping parties que hemos organizado.
+
+<!-- Todo: poner snippet para mostrar título de las últimas entradas del blog con la etiqueta zaccesible -->
