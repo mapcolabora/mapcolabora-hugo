@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eventos on Mapeado Colaborativo</title>
+    <link>http://mapcolabora.org/tags/eventos/</link>
+    <description>Recent content in Eventos on Mapeado Colaborativo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <managingEditor>mapeadocolaborativo@gmail.com (Mapeado Colaborativo)</managingEditor>
+    <webMaster>mapeadocolaborativo@gmail.com (Mapeado Colaborativo)</webMaster>
+    <lastBuildDate>Fri, 29 Apr 2016 10:58:40 +0200</lastBuildDate>
+    
+	<atom:link href="http://mapcolabora.org/tags/eventos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mapping Party #ZACcesibilidad</title>
+      <link>http://mapcolabora.org/post/2016-04-29-mapping-party-zaccesibilidad/</link>
+      <pubDate>Fri, 29 Apr 2016 10:58:40 +0200</pubDate>
+      <author>mapeadocolaborativo@gmail.com (Mapeado Colaborativo)</author>
+      <guid>http://mapcolabora.org/post/2016-04-29-mapping-party-zaccesibilidad/</guid>
+      <description>Durante los días 6, 7 y 9 de mayo tendrá lugar la primera Mapping Party dedicada a la Accesibilidad en el barrio del Gancho, una iniciativa conjunta de la cátedra Bantierra-Fundación Adecco de la USJ y el grupo de trabajo Mapeado Colaborativo de Zaragoza Activa y a la que invitamos a todo el mundo a participar.
+Una Mapping Party es un evento abierto a todo el mundo en el que voluntarios se reunen para mapear colaborativamente y de forma coordinada a través de la plataforma OpenStreetMap.</description>
+    </item>
+    
+    <item>
+      <title>Día internacional de las personas con discapacidad y 2ª Mapping Party #zAccesibilidad</title>
+      <link>http://mapcolabora.org/post/2016-12-06-dia-internacional-de-las-personas-con-discapacidad-y-2%C2%AA-mapping-party/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>mapeadocolaborativo@gmail.com (Mapeado Colaborativo)</author>
+      <guid>http://mapcolabora.org/post/2016-12-06-dia-internacional-de-las-personas-con-discapacidad-y-2%C2%AA-mapping-party/</guid>
+      <description>Aprovechando que el 3 de diciembre se celebra el día internacional de las personas con discapacidad, desde el grupo Mapeado Colaborativo y la Cátedra lo celebramos con la realización de la segunda Mapping Party de accesibilidad, que además de la localización (el barrio de la Magdalena) tuvo notables diferencias con respecto a la primera. La más notable es que, en esta ocasión, la realizamos conjuntamente con la asociación Discapacitados Sin Fronteras de Aragón, quienes han integrado dentro del currículum educativo de su XVIII Seminario sobre diversidad funcional la toma de datos relativos a la accesibilidad y posterior publicación en OpenStreetMap.</description>
+    </item>
+    
+  </channel>
+</rss>

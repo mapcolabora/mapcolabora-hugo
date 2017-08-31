@@ -232,11 +232,12 @@
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
       <article role="main" class="blog-post">
-        <p>Explicar aquí cosas.</p>
+        
 
-<p>Enlazar a la etiqueta <a href="tags/zaccesibilidad">#Zaccesibilidad</a></p>
+<p><strong>Zaragoza Accesible</strong> es un proyecto de mapeado colaborativo de aspectos relacionados con la discapacidad y la movilidad en Zaragoza desarrollado conjuntamente con el grupo de investigación <em>Arquitecturas OpenSource</em> de la Escuela de Arquitectura y Tecnología de la <a href="http://usj.es">Universidad San Jorge</a>.
+Gracias a las observaciones de campo sobre realizadas por voluntarias y a OpenStreetMap, esperamos realizar un mapa de toda Zaragoza que facilite la movilidad de las personas con diversidad funcional.</p>
 
-<p>Aquí debería salir una galería de fotos&hellip;</p>
+<p>Tenéis más información del proyecto en la <a href="http://zaccesible.usj.es">web específica del grupo de investigación</a> y en la etiqueta <a href="/tags/zaccesible">#Zaccesible</a> de nuestro blog.</p>
 
 
 
@@ -322,6 +323,31 @@
 </div> -->
 
 </div>
+
+<p>Han colaborado también en el proyecto:</p>
+
+<ul>
+<li><a href="http://discapacitadossinfronteras.com/">Discapacitados Sin Fronteras Aragón</a></li>
+<li>Asociación de Vecinos y Vecinas Manuel Viola</li>
+<li>Centro Cívico Las Esquinas del Psiquiátrico</li>
+<li><a href="https://elganchillosocial.wordpress.com/">Ganchillo Social</a>, en colaboración con <a href="https://ocioinclusivoarrabal.wordpress.com/">Ocio Inclusivo</a> y la Asociación de Vecinos del Arrabal.</li>
+<li>Decenas de voluntarios que se han unido a nosotros en las distintas mapping parties que hemos organizado.</li>
+</ul>
+
+<h2 id="en-el-blog">En el blog:</h2>
+
+<section id="blog">
+    <ul>
+        {{ range $key, $taxonomy := .Site.Taxonomies.zaccesible }}
+        <li> {{ $key }} </li>
+        <ul>
+            {{ range $taxonomy.Pages }}
+            <li hugo-nav="{{ .RelPermalink}}"><a href="{{ .Permalink}}"> {{ .LinkTitle }} </a> </li>
+            {{ end }}
+        </ul>
+        {{ end }}
+    </ul>
+</section>
 
       </article>
 

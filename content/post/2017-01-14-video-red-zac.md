@@ -1,6 +1,6 @@
 ---
 title: "Vídeo para la Red ZAC"
-date: 2017-08-24T10:47:53+02:00
+date: 2017-01-14T10:47:53+02:00
 subtitle: "En Zaragoza Activa han hecho un vídeo sobre nosotros y ha quedado molón"
 tags:
   - Zaragoza Activa

@@ -13,7 +13,7 @@ coordinators:
 **Zaragoza Accesible** es un proyecto de mapeado colaborativo de aspectos relacionados con la discapacidad y la movilidad en Zaragoza desarrollado conjuntamente con el grupo de investigación *Arquitecturas OpenSource* de la Escuela de Arquitectura y Tecnología de la [Universidad San Jorge](http://usj.es).
 Gracias a las observaciones de campo sobre realizadas por voluntarias y a OpenStreetMap, esperamos realizar un mapa de toda Zaragoza que facilite la movilidad de las personas con diversidad funcional.
 
-Tenéis más información del proyecto en la [web específica del grupo de investigación](http://zaccesible.usj.es) y en la etiqueta [#Zaccesibilidad](tags/zaccesibilidad) de nuestro blog.
+Tenéis más información del proyecto en la [web específica del grupo de investigación](http://zaccesible.usj.es) y en la etiqueta [#Zaccesible](/tags/zaccesible) de nuestro blog.
 
 {{< gallery caption-effect="fade" >}}
   {{< figure thumb="" link="/img/proyectos/zaccesible/Toma de datos Mapping Party.jpg"  caption="Inicio de toma de datos" >}}
@@ -29,4 +29,5 @@ Han colaborado también en el proyecto:
 * [Discapacitados Sin Fronteras Aragón](http://discapacitadossinfronteras.com/)
 * Asociación de Vecinos y Vecinas Manuel Viola
 * Centro Cívico Las Esquinas del Psiquiátrico
+* [Ganchillo Social](https://elganchillosocial.wordpress.com/), en colaboración con [Ocio Inclusivo](https://ocioinclusivoarrabal.wordpress.com/) y la Asociación de Vecinos del Arrabal.
 * Decenas de voluntarios que se han unido a nosotros en las distintas mapping parties que hemos organizado.

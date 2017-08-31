@@ -1,6 +1,6 @@
 ---
 title: "Presentación OpenSource Economic Days"
-date: "2017-06-12 12:46:24 +0200"
+date: "2017-06-12"
 author: "Carlos Cámara"
 tags:
   - Presentaciones
