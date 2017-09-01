@@ -1,3 +1,3 @@
 ![Build Status](https://gitlab.com/pages/hugo/badges/master/build.svg)
 
-Este es un prototipo de web para mapeado colaborativo usando [hugo](https://gohugo.io).
+Este es un prototipo de web para mapeado colaborativo usando [hugo](https://gohugo.io) y alojado en gitlab pages.
