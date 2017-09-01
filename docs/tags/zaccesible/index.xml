@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zaccesible on Mapeado Colaborativo</title>
-    <link>http://mapcolabora.org/mapcolabora-hugo/tags/zaccesible/</link>
+    <link>http://mapcolabora.org/tags/zaccesible/</link>
     <description>Recent content in Zaccesible on Mapeado Colaborativo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
@@ -10,64 +10,64 @@
     <webMaster>mapeadocolaborativo@gmail.com (Mapeado Colaborativo)</webMaster>
     <lastBuildDate>Thu, 31 Aug 2017 09:24:44 +0200</lastBuildDate>
     
-	<atom:link href="http://mapcolabora.org/mapcolabora-hugo/tags/zaccesible/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://mapcolabora.org/tags/zaccesible/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Inicio del tercer curso en ZAC</title>
-      <link>http://mapcolabora.org/mapcolabora-hugo/post/2017-08-26-inicio-3-curso/</link>
+      <link>http://mapcolabora.org/post/2017-08-26-inicio-3-curso/</link>
       <pubDate>Thu, 31 Aug 2017 09:24:44 +0200</pubDate>
       <author>mapeadocolaborativo@gmail.com (Mapeado Colaborativo)</author>
-      <guid>http://mapcolabora.org/mapcolabora-hugo/post/2017-08-26-inicio-3-curso/</guid>
+      <guid>http://mapcolabora.org/post/2017-08-26-inicio-3-curso/</guid>
       <description>Tras un curso intenso en el que hemos realizado 2 Mapping Parties, hemos participado en la IV Jornadas de Wikimedia España y en la Ciudad de las bicis y hemos organizado el Mapatón Humanitario en la Semana de la Geografía, y tras el merecido parón estival, empezamos el que será el tercer curso de Mapeado Colaborativo. Así pues, el próximo 12 de septiembre, a las 10:00, nos reunimos de nuevo para preparar el curso, conocernos, intercambiar visiones, proyectos y opiniones y, sobre todo, preparar la que será la primera actividad: la IV Mapping Party #Zaccesibilidad del día 16 de septiembre en el Arrabal, impulsada por el proyecto “Ganchillo Social” en colaboración con Ocio Inclusivo y la Asociación de Vecinos del Arrabal.</description>
     </item>
     
     <item>
       <title>Sesión 3 Mapping party #Zaccesibilidad: Subida de datos</title>
-      <link>http://mapcolabora.org/mapcolabora-hugo/post/2016-05-20-sesion-3-mapeado-colaborativo/</link>
+      <link>http://mapcolabora.org/post/2016-05-20-sesion-3-mapeado-colaborativo/</link>
       <pubDate>Fri, 20 May 2016 09:21:03 +0200</pubDate>
       <author>mapeadocolaborativo@gmail.com (Mapeado Colaborativo)</author>
-      <guid>http://mapcolabora.org/mapcolabora-hugo/post/2016-05-20-sesion-3-mapeado-colaborativo/</guid>
+      <guid>http://mapcolabora.org/post/2016-05-20-sesion-3-mapeado-colaborativo/</guid>
       <description>El viernes 20 de Mayo se llevó a cabo en la sede de Zaragoza Activa Las Armas la tercera sesión de la Mapping party #Zaccesibilidad del Gancho organizada con el grupo residente de Mapeado Colaborativo.. La sesión consistió en la subida de datos previamente recogidos el día 7 de Mayo, y por tanto, la primera aproximación por parte de la mayoría de asistentes a OpenStreetMap.
 La jornada empezó con una presentación del programa, de sus herramientas y de las licencias de uso de datos que ofrece, así cómo de la explicación de en qué elementos está estructurada la información en un mapa (nodos, líneas y áreas) finalizando con la parte del etiquetado clave = valor.</description>
     </item>
     
     <item>
       <title>Sesión 2 Mapping party #Zaccesibilidad: Toma de datos</title>
-      <link>http://mapcolabora.org/mapcolabora-hugo/post/2016-05-07-sesion-2-mapeado-colaborativo/</link>
+      <link>http://mapcolabora.org/post/2016-05-07-sesion-2-mapeado-colaborativo/</link>
       <pubDate>Sat, 07 May 2016 13:54:41 +0200</pubDate>
       <author>mapeadocolaborativo@gmail.com (Mapeado Colaborativo)</author>
-      <guid>http://mapcolabora.org/mapcolabora-hugo/post/2016-05-07-sesion-2-mapeado-colaborativo/</guid>
+      <guid>http://mapcolabora.org/post/2016-05-07-sesion-2-mapeado-colaborativo/</guid>
       <description>El sábado 7 de Mayo se llevó a cabo la recogida de datos de la Mapping Party #Zaccesibilidad en el Barrio del Gancho, para la cual contamos con un grupo inicial formado por unas 14 personas con perfiles y edades muy diversos.
 Tras una breve presentación de los nuevos integrantes y el reparto del &amp;ldquo;material de trabajo&amp;rdquo; formado por fieldpapers preparados previamente sobre los que anotaríamos todo lo que fuésemos observando (con la particularidad de que posteriormente pueden escanearse y se georreferencian automáticamente, facilitando también el trabajo de publicación de datos), bolígrafos para tomar notas (proporcionados por la Universidad San Jorge) y botellines de agua y galletas para avituallarnos (por cortesía de Eboca vending), procedimos a crear 4 grupos entre los que nos repartiríamos las 12 zonas en las que habíamos dividido la zona de estudio y se estipuló una metodología para enumerar de los diferentes tipos de barreras arquitectónicas previamente clasificadas.</description>
     </item>
     
     <item>
       <title>Sesión 1 Mapping party #Zaccesibilidad: Presentación</title>
-      <link>http://mapcolabora.org/mapcolabora-hugo/post/2016-05-06-sesion-1-mapeado-colaborativo/</link>
+      <link>http://mapcolabora.org/post/2016-05-06-sesion-1-mapeado-colaborativo/</link>
       <pubDate>Fri, 06 May 2016 13:30:39 +0200</pubDate>
       <author>mapeadocolaborativo@gmail.com (Mapeado Colaborativo)</author>
-      <guid>http://mapcolabora.org/mapcolabora-hugo/post/2016-05-06-sesion-1-mapeado-colaborativo/</guid>
+      <guid>http://mapcolabora.org/post/2016-05-06-sesion-1-mapeado-colaborativo/</guid>
       <description>El viernes 6 de mayo se celebró en la sede de Zaragoza Activa situada en la Calle las Armas la presentación del grupo residente de Mapeado Colaborativo constituído a partir de esta cátedra y la comunidad de OpenStreetMap con el soporte de Zaragoza Activa (aquí contamos el orígen del grupo y la relación con la cátedra).
 La sesión empezó con la presentación de los asistentes y con un pequeño coloquio en el cual se habló de por qué se habían apuntado al grupo y qué esperaban del mismo.</description>
     </item>
     
     <item>
       <title>Mapping Party #ZACcesibilidad</title>
-      <link>http://mapcolabora.org/mapcolabora-hugo/post/2016-04-29-mapping-party-zaccesibilidad/</link>
+      <link>http://mapcolabora.org/post/2016-04-29-mapping-party-zaccesibilidad/</link>
       <pubDate>Fri, 29 Apr 2016 10:58:40 +0200</pubDate>
       <author>mapeadocolaborativo@gmail.com (Mapeado Colaborativo)</author>
-      <guid>http://mapcolabora.org/mapcolabora-hugo/post/2016-04-29-mapping-party-zaccesibilidad/</guid>
+      <guid>http://mapcolabora.org/post/2016-04-29-mapping-party-zaccesibilidad/</guid>
       <description>Durante los días 6, 7 y 9 de mayo tendrá lugar la primera Mapping Party dedicada a la Accesibilidad en el barrio del Gancho, una iniciativa conjunta de la cátedra Bantierra-Fundación Adecco de la USJ y el grupo de trabajo Mapeado Colaborativo de Zaragoza Activa y a la que invitamos a todo el mundo a participar.
 Una Mapping Party es un evento abierto a todo el mundo en el que voluntarios se reunen para mapear colaborativamente y de forma coordinada a través de la plataforma OpenStreetMap.</description>
     </item>
     
     <item>
       <title>Día internacional de las personas con discapacidad y 2ª Mapping Party #zAccesibilidad</title>
-      <link>http://mapcolabora.org/mapcolabora-hugo/post/2016-12-06-dia-internacional-de-las-personas-con-discapacidad-y-2%C2%AA-mapping-party/</link>
+      <link>http://mapcolabora.org/post/2016-12-06-dia-internacional-de-las-personas-con-discapacidad-y-2%C2%AA-mapping-party/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>mapeadocolaborativo@gmail.com (Mapeado Colaborativo)</author>
-      <guid>http://mapcolabora.org/mapcolabora-hugo/post/2016-12-06-dia-internacional-de-las-personas-con-discapacidad-y-2%C2%AA-mapping-party/</guid>
+      <guid>http://mapcolabora.org/post/2016-12-06-dia-internacional-de-las-personas-con-discapacidad-y-2%C2%AA-mapping-party/</guid>
       <description>Aprovechando que el 3 de diciembre se celebra el día internacional de las personas con discapacidad, desde el grupo Mapeado Colaborativo y la Cátedra lo celebramos con la realización de la segunda Mapping Party de accesibilidad, que además de la localización (el barrio de la Magdalena) tuvo notables diferencias con respecto a la primera. La más notable es que, en esta ocasión, la realizamos conjuntamente con la asociación Discapacitados Sin Fronteras de Aragón, quienes han integrado dentro del currículum educativo de su XVIII Seminario sobre diversidad funcional la toma de datos relativos a la accesibilidad y posterior publicación en OpenStreetMap.</description>
     </item>
     
