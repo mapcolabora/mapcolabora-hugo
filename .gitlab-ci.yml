@@ -6,7 +6,7 @@ before_script:
 
 pages:
   script:
-  - hugo
+  - hugo -v --forceSyncStatic
   artifacts:
     paths:
     - public
