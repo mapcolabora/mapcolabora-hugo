@@ -1,5 +1,5 @@
 buildDrafts = false
-baseurl = "mapcolabora-hugo.gitlab.io"
+baseurl = "mapcolabora.gitlab.io"
 languageCode = "es"
 title = "Mapeado Colaborativo"
 theme = "beautifulhugo"
