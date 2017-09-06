@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Sesión 3 Mapping party #Zaccesibilidad: Subida de datos"
 date: "2016-05-20 09:21:03 +0200"
 author: César Canalís
@@ -11,9 +10,11 @@ tags:
   - El Gancho
   - Resultados
 
-comments: yes
+comments: no
+bigimg::
+  - {src: "http://zaccesible.usj.es/media/IMG_20160520_101415_1.jpg", desc: "Introducción de datos en OSM en ZGZ Activa"}
+  - {src: "http://blogzac.es/wp-content/uploads/2017/08/blog_mapeado_zaccesibilidad.jpg", desc: "Llega septiembre, con las promociones y albums de cromos inundando los quioscos , y con él, el inicio del curso de Mapeado Colaborativo. El tercero. Fuente: Cristian O. Arone (CC-SA)"}
 ---
-![](http://zaccesible.usj.es/media/IMG_20160520_101415_1.jpg)
 
 El viernes 20 de Mayo se llevó a cabo en la sede de [**Zaragoza Activa** Las Armas](http://www.openstreetmap.org/node/2353638893) la tercera sesión de la *Mapping party #Zaccesibilidad* del Gancho organizada con el [grupo residente de **Mapeado Colaborativo.**](/blog/2016/04/07/mapeado-colaborativo-zac.html). La sesión consistió en la subida de datos previamente [recogidos el día 7 de Mayo](/blog/2016/05/07/sesion-2-mapeado-colaborativo.html), y por tanto, la primera aproximación por parte de la mayoría de asistentes a [OpenStreetMap](http://openstreetmap.org).
 

@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Día internacional de las personas con discapacidad y 2ª Mapping Party #zAccesibilidad"
 date: "2016-12-06"
 categories: blog

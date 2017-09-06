@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Sesión 2 Mapping party #Zaccesibilidad: Toma de datos'
 date: '2016-05-07 13:54:41 +0200'
 author:
@@ -11,10 +10,10 @@ tags:
   - Mapping Party
 categories: blog
 comments: true
-published: true
----
+bigimg:
+  - {src: "http://zaccesible.usj.es/media/Toma de datos Mapping Party.jpg", desc: "Asistentes a la mapping party distribuyéndonos el trabajo."}
 
-![Asistentes a la mapping party distribuyéndonos el trabajo.](http://zaccesible.usj.es/media/Toma de datos Mapping Party.jpg)
+---
 
 El sábado 7 de Mayo se llevó a cabo la recogida de datos de la [Mapping Party #Zaccesibilidad](https://twitter.com/search?q=%23zaccesibilidad&src=typd) en el Barrio del Gancho, para la cual contamos con un grupo inicial formado por unas 14 personas con perfiles y edades muy diversos.
 
