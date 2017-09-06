@@ -5,9 +5,9 @@ title = "Mapeado Colaborativo"
 theme = "beautifulhugo"
 
 [Params]
-  subtitle = "Nuevas cartografías colaborativas al alcance de todos."
-  #logo = "img/mapeado_colaborativo_logo3b_color.svg"
-  logo = "http://mapcolabora.org/mapeado_colaborativo_logo3b_color.svg"
+  subtitle = "Nuevas cartografías colaborativas al alcance de todos"
+  logo = "img/mapeado_colaborativo_logo3b_color.svg"
+  #logo = "http://mapcolabora.org/mapeado_colaborativo_logo3b_color.svg"
   favicon = "img/favicon.ico"
   dateFormat = "2/1/2006"
   commit = false
