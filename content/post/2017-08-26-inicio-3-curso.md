@@ -5,7 +5,7 @@ subtitle: "Preparación de la IV Mapping Party y calendario próximo"
 tags:
   - Zaragoza Activa
   - Zaccesible
-bigimage:
+bigimg:
   - {src: "http://blogzac.es/wp-content/uploads/2017/08/blog_mapeado_zaccesibilidad.jpg", desc: "Llega septiembre, con las promociones y albums de cromos inundando los quioscos , y con él, el inicio del curso de Mapeado Colaborativo. El tercero. Fuente: Cristian O. Arone (CC-SA)"}
 ---
 
