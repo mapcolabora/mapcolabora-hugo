@@ -5,9 +5,10 @@ subtitle: ""
 tags:
   - Zaragoza Activa
   - Zaccesible
+bigimage:
+  - {src: "http://blogzac.es/wp-content/uploads/2017/08/blog_mapeado_zaccesibilidad.jpg", desc: "Llega septiembre, con las promociones y albums de cromos inundando los quioscos , y con él, el inicio del curso de Mapeado Colaborativo. El tercero. Fuente: Cristian O. Arone (CC-SA)"}
 ---
 
-![Llega septiembre, con las promociones y albums de cromos inundando los quioscos , y con él, el inicio del curso de Mapeado Colaborativo. El tercero. Fuente: Cristian O. Arone (CC-SA)](http://blogzac.es/wp-content/uploads/2017/08/blog_mapeado_zaccesibilidad.jpg)
 Tras un curso intenso en el que hemos realizado 2 Mapping Parties, hemos participado en la [IV Jornadas de Wikimedia España](https://blog.wikimedia.es/2016/09/iv-jornadas-de-wikimedia-espana/) y en [la Ciudad de las bicis](https://drive.google.com/file/d/0B9mGbqdvP8C0NEZQbk1ZNGo0Wjg/view?usp=sharing) y hemos organizado el [Mapatón Humanitario en la Semana de la Geografía](https://ucc.unizar.es/noticias/los-geografos-activan-un-mapaton-con-fines-humanitarios), y tras el merecido parón estival, empezamos el que será el tercer curso de Mapeado Colaborativo.
 Así pues, el próximo 12 de septiembre, a las 10:00, nos reunimos de nuevo para preparar el curso, conocernos, intercambiar visiones, proyectos y opiniones y, sobre todo, preparar la que será la primera actividad: la **IV Mapping Party #Zaccesibilidad** del día 16 de septiembre en el Arrabal, impulsada por el proyecto “[Ganchillo Social](https://elganchillosocial.wordpress.com/)” en colaboración con [Ocio Inclusivo](https://ocioinclusivoarrabal.wordpress.com/) y la Asociación de Vecinos del Arrabal.
 
