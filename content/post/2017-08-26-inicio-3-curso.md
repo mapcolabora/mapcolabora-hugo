@@ -1,7 +1,7 @@
 ---
 title: "Inicio del tercer curso en ZAC"
 date: 2017-08-31T09:24:44+02:00
-subtitle: ""
+subtitle: "Preparación de la IV Mapping Party y calendario próximo"
 tags:
   - Zaragoza Activa
   - Zaccesible
