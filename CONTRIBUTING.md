@@ -2,26 +2,10 @@
 
 Si estás leyendo este documento es que te estás planteando colaborar de forma activa en la web de Mapeado Colaborativo, así que antes que nada ¡Muchas gracias por echarnos una mano! :tada:
 
-### Contenido del documento
-
-* [Información sobre el proyecto](#información-sobre-el-proyecto)
-* [Información técnica](#información-técnica)
- * [Sobre la web](#sobre-la-web)
- * [Estructura de archivos y carpetas](#estructura-de-archivos-y-carpetas)
-* [Formas de participar](#formas-de-participar)
- * [Toma de decisiones](#toma-de-decisiones)
- * [Testeando](#testear)
- * [Documentando](#documentar)
- * [Traduciendo](#traducir)
-* [Directrices para participar](#directrices-para-participar)
 
 ## Información sobre el proyecto
 
 Este repositorio contiene los archivos que sirven para generar la web pública de Mapeado Colaborativo (http://mapcolabora.org) a través del generador [Hugo](http://gohugo.io). 
-Todo el contenido de la web se genera a través de crear La mayoría de archivos de este repositorio son archivos de markdown
-
-Cualquiera que vea 
-
 
 
 ## Formas de participar
