@@ -8,9 +8,10 @@ tags:
   - Mapping party
   - eventos
   - Zaccesible
----
+bigimg:
+  - {src: "http://zaccesible.usj.es/media/photo_2016-12-09_09-52-50.jpg", desc: "Miguel dando instrucciones previas al inicio de la Mapping Party"}
 
-![Instrucciones previas a la Mapping Party](http://zaccesible.usj.es/media/photo_2016-12-09_09-52-50.jpg)
+---
 
 Aprovechando que el 3 de diciembre se celebra el [día internacional de las personas con discapacidad](https://es.wikipedia.org/wiki/D%C3%ADa_Internacional_de_las_Personas_con_Discapacidad), desde el grupo Mapeado Colaborativo y la Cátedra lo celebramos con la realización de la segunda _Mapping Party_ de accesibilidad, que además de la localización (el barrio de la Magdalena) tuvo notables diferencias con [respecto a la primera](http://blogzac.es/mapping-party-zaccesibilidad-67-9-mayo/). La más notable es que, en esta ocasión, la realizamos conjuntamente con la asociación [Discapacitados Sin Fronteras de Aragón](https://discapacitadossinfronteras.com/), quienes han integrado dentro del currículum educativo de su [XVIII Seminario sobre diversidad funcional](https://discapacitadossinfronteras.com/seminarios/) la toma de datos relativos a la accesibilidad y posterior publicación en [OpenStreetMap](http://openstreetmap.org). Fruto de esta colaboración, una veintena de alumnos participaron en la _Mapping Party_después de haber recibido una pequeña formación previa sobre OSM de la mano de uno de los coordinadores del grupo, César Canalís.
 
