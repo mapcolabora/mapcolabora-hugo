@@ -463,7 +463,8 @@ footer .theme-by {
   text-align: center;
 }
 .intro-header.big-img .page-heading,
-.intro-header.big-img .post-heading {
+.intro-header.big-img .post-heading,
+.intro-header.big-img .project-heading {
   padding: 100px 0;
   color: #FFF;
   text-shadow: 1px 1px 3px #000;
