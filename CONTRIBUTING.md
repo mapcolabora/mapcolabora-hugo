@@ -12,8 +12,8 @@ Este repositorio contiene los archivos que sirven para generar la web pública d
 
 Cualquiera que lo desee puede ayudarnos a que la web sea mejor de las siguientes maneras:
 
-* **[Realizando alguna de las tareas pendientes](#Realizar tareas pendientes) que tenemos en [esta lista](https://gitlab.com/mapcolabora/mapcolabora.gitlab.io/issues).
-* **[Informar de errores](#Informar errores)** si has visto algún error o falta de ortografía y quieres corregirlo, ¡no dudes en cambiarlo tú mismo!
+* **[Realizando alguna de las tareas pendientes](#Realizar-tareas-pendientes)** que tenemos en [esta lista](https://gitlab.com/mapcolabora/mapcolabora.gitlab.io/issues).
+* **[Informar de errores](#Informar-errores)** si has visto algún error o falta de ortografía y quieres corregirlo, ¡no dudes en cambiarlo tú mismo!
 
 ### Realizar tareas pendientes
 
