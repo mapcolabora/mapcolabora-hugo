@@ -86,9 +86,18 @@ weight = 1
 
  [[menu.main]]
      name = "Correo"
-     weight = 5
+     weight = 6
      url = "https://groups.google.com/forum/#%21forum/mapeado-colaborativo"
 
+[[menu.main]]
+     name = "Meetup"
+     weight = 7
+     url = "https://www.meetup.com/es-ES/mapcolabora/"
+     
+[[menu.main]]
+     name = "Calendario"
+     weight = 8
+     url = "http://ow.ly/4njJoG"
 # [[menu.main]]
 #     parent = "samples"
 #     name = "Big Image Sample"
