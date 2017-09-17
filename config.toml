@@ -84,20 +84,25 @@ weight = 1
     url = "project"
     weight = 4
 
+[[menu.main]]
+     identifier = "Contacto & Agenda"
+     name = "Contacto & Agenda"
+     weight = 20
+
  [[menu.main]]
-     identifier = "Contacto"
+     parent = "Contacto & Agenda"
      name = "Correo"
-     weight = 6
+     weight = 21
      url = "https://groups.google.com/forum/#%21forum/mapeado-colaborativo"
 [[menu.main]]
      name = "Meetup"
-     parent = "Contacto"
-     weight = 7
+     parent = "Contacto & Agenda"
+     weight = 22
      url = "https://www.meetup.com/es-ES/mapcolabora/"
 [[menu.main]]     
      name = "Calendario"
-     parent = "Contacto"
-     weight = 8
+     parent = "Contacto & Agenda"
+     weight = 23
      url = "http://ow.ly/4njJoG"
 # [[menu.main]]
 #     parent = "samples"
