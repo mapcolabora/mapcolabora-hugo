@@ -5,6 +5,8 @@ linktitle: Contacto & Agenda
 menu:
   main:
     parent: Contacto & Agenda
+next: ""
+prev: /content/contact-events/correo
 title: Correo
 weight: 10
 ---
