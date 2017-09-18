@@ -69,6 +69,7 @@ weight = 1
     weight = 1
 
 [[menu.main]]
+    parent = "Acerca de"
     name = "Personas"
     url = "people"
     weight = 3
@@ -96,7 +97,7 @@ weight = 1
 
  [[menu.main]]
      parent = "Contacto & Agenda"
-     name = "Correo"
+     name = "Lista de Correo"
      weight = 21
      url = "https://groups.google.com/forum/#%21forum/mapeado-colaborativo"
 
@@ -105,7 +106,7 @@ weight = 1
      parent = "Contacto & Agenda"
      weight = 22
      url = "https://www.meetup.com/es-ES/mapcolabora/"
-     
+
 [[menu.main]]
      name = "Calendario"
      parent = "Contacto & Agenda"
