@@ -85,6 +85,11 @@ weight = 1
     weight = 4
 
 [[menu.main]]
+    name = "Tags"
+    url = "tags"
+    weight = 5
+
+[[menu.main]]
      identifier = "Contacto & Agenda"
      name = "Contacto & Agenda"
      weight = 20
@@ -94,35 +99,15 @@ weight = 1
      name = "Correo"
      weight = 21
      url = "https://groups.google.com/forum/#%21forum/mapeado-colaborativo"
+
 [[menu.main]]
      name = "Meetup"
      parent = "Contacto & Agenda"
      weight = 22
      url = "https://www.meetup.com/es-ES/mapcolabora/"
-[[menu.main]]     
+     
+[[menu.main]]
      name = "Calendario"
      parent = "Contacto & Agenda"
      weight = 23
-     url = "http://ow.ly/4njJoG"
-# [[menu.main]]
-#     parent = "samples"
-#     name = "Big Image Sample"
-#     url = "post/2017-03-07-bigimg-sample"
-#     weight = 1
-#
-# [[menu.main]]
-#     parent = "samples"
-#     name = "Math Sample"
-#     url = "post/2017-03-05-math-sample"
-#     weight = 2
-#
-# [[menu.main]]
-#     parent = "samples"
-#     name = "Code Sample"
-#     url = "post/2016-03-08-code-sample"
-#     weight = 3
-
-[[menu.main]]
-    name = "Tags"
-    url = "tags"
-    weight = 5
+     url = "page/calendario"
