@@ -1,6 +1,6 @@
 ---
 title: "Empezamos el curso con ánimo!"
-date: 2017-09-20
+date: "2017-09-20"
 subtitle: "Inicio de la IV Mapping Party en el barrio del Arrabal"
 tags:
   - Zaragoza Activa
