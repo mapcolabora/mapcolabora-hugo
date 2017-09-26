@@ -1,19 +1,21 @@
 ---
 title: "Empezamos el curso con ánimo!"
-date: 2017-09-20T09:24:44+02:00
-subtitle: "Inicio de la IV Mapping Party en el barrio del Arrabal"
+date: 2017-09-20
+subtitle: "Crónica de la IV mapping party #Zaccesibilidad"
 tags:
   - Zaragoza Activa
   - Zaccesible
 bigimg:
-  - {src:"https://gitlab.com/mapcolabora/mapcolabora.gitlab.io/raw/gitlab/static/img/proyectos/zaccesible/cruce.jpg", desc: "Por donde sentimos, caminamos. Fuente: M. Sevilla (CC-SA)"}
+  - {src: "img/proyectos/zaccesible/cruce.jpg", desc: "Por donde sentimos, caminamos. Fuente: M. Sevilla (CC-SA)"}
 ---
+
 El pasado sábado 16 de septiembre iniciamos el nuevo curso participando en la **IV Mapping Party #Zaccesibilidad** en el barrio del Arrabal, la cual fue impulsada por el proyecto “[Ganchillo Social](https://elganchillosocial.wordpress.com/)”.
 Además, nos acompañó con su colaboración [Ocio Inclusivo](https://ocioinclusivoarrabal.wordpress.com/) y la Asociación de Vecinos del Arrabal (muchas gracias!).
 
-A las 11h daba comienzo la sesión, con una gran explicación de [Noe]({{< 908988329210892288 >}}) sobre los grupos y ciudadanos que nos habíamos reunido y el objetivo común qué nos movía: la detección de barreras arquitectónicas que existen en las ciudades relativas a la accesibilidad y su análisis mediante cartografía colaborativa.
+A las 11h daba comienzo la sesión, con una gran explicación de [Noe](https://twitter.com/ganchillosocial) sobre los grupos y ciudadanos que nos habíamos reunido y el objetivo común qué nos movía: la detección de barreras arquitectónicas que existen en las ciudades relativas a la accesibilidad y su análisis mediante cartografía colaborativa.
+{{< tweet 908988329210892288 >}}
 
-Como es de costumbre, se repartieron los [fieldpapers](http://fieldpapers.org/) entre 4 grupos a ritmo de la dulzaina aragonesa para empezar a trabajar sobre ellos, anotando cada elemento con sus particulares carcaterísticas en la hojas de trabajo que preparamos.
+Como es de costumbre, se repartieron los [fieldpapers](http://fieldpapers.org/atlases/3p5u7pu2) entre 4 grupos a ritmo de la dulzaina aragonesa para empezar a trabajar sobre ellos, anotando cada elemento con sus particulares carcaterísticas en la hojas de trabajo que preparamos.
 
 {{< tweet 908991524410728449 >}}
 {{< tweet 909018555882049536 >}}
