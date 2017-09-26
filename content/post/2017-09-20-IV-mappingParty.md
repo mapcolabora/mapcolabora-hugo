@@ -1,7 +1,7 @@
 ---
-title: "Empezamos el curso con ánimo!"
+title: "Crónica de la IV mapping party #Zaccesibilidad!"
 date: 2017-09-20
-subtitle: "Crónica de la IV mapping party #Zaccesibilidad"
+subtitle: "Inicio de la IV Mapping Party en el barrio del Arrabal"
 tags:
   - Zaragoza Activa
   - Zaccesible
