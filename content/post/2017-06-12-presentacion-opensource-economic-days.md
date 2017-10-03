@@ -19,11 +19,11 @@ No aporta gran cosa con respecto al embed de google o al de un PDF (pensaba que 
 <!--more-->
 Esto es un PDF embebido:
 
-<object data="files/20170612presentacion.pdf" type="application/pdf" width="100%" height="800px">
+<object data="/files/20170612presentacion.pdf" type="application/pdf" width="100%" height="800px">
   <p>Parece que no tienes un plugin para ver el PDF embebido. No pasa nada, siempre puedes <a href="files/20170612presentacion.pdf">hacer clic aquí para descargarlo</a></p>
  </object>
 
-<embed src="files/20170612presentacion.pdf" type='application/pdf' ></embed>
+<embed src="/files/20170612presentacion.pdf" type='application/pdf' ></embed>
 
 
 
