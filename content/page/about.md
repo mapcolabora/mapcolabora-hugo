@@ -8,11 +8,16 @@ Mapeado Colaborativo es uno de los [grupos residentes](https://www.zaragoza.es/c
 
 ### ¿Por qué es importante el mapeado colaborativo?
 
-Explicar
+Los mapas son una representación de la realidad, pero también la condicionan. A modo de ejemplo
 
 ### Cuando y dónde nos reunimos
 
-Explicar e insertar un mapa embebido.
+Nos reunimos los viernes alternos, de 10 a 13 en ZAC Las Armas. Puedes ver la programación detallada en [nuestro calendario](page/calendario).
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=-0.8882644772529603%2C41.65587194529954%2C-0.8837851881980897%2C41.65766551222129&amp;layer=mapnik&amp;marker=41.65676873500387%2C-0.8860248327255249" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=41.65677&amp;mlon=-0.88602#map=19/41.65677/-0.88602">View Larger Map</a></small>
 
 ### ¿Qué hacemos?
-Enlace a Proyectos. Quizá estaría bien insertar un listado automático que se actualice al añadir nuevos proyectos.
+
+Desde que empezamos la actividad, en mayo de 2015, hemos realizado varias actividades y proyectos, tanto de formación sobre mapeado voluntario y herramientas/servicios como OpenStreetMap, Mapillary o Carto) como, sobre todo, actividades con una fuerte componente social. Ejemplo de estas últimas son las 4 Mapping parties de Zaccesibilidad para mapear la accesibilidad de las calles desde el punto de vista de la discapacidad, o el Mapathon humanitario.
+
+Puedes ver el listado de proyectos en [esta página](project).
