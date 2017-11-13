@@ -20,6 +20,6 @@ Nos reunimos los viernes alternos, de 10 a 13 en ZAC Las Armas. Puedes ver la pr
 
 ### ¿Qué hacemos?
 
-Desde que empezamos la actividad, en mayo de 2015, hemos realizado varias actividades y proyectos, tanto de formación sobre mapeado voluntario y herramientas/servicios como OpenStreetMap, Mapillary o Carto) como, sobre todo, actividades con una fuerte componente social. Ejemplo de estas últimas son las 4 Mapping parties de Zaccesibilidad para mapear la accesibilidad de las calles desde el punto de vista de la discapacidad, o el Mapathon humanitario.
+Desde que empezamos la actividad, en mayo de 2015, hemos realizado varias actividades y proyectos, tanto de formación sobre mapeado voluntario y herramientas/servicios como [OpenStreetMap](/project/manual-osm/), Mapillary o Carto) como, sobre todo, actividades con una fuerte componente social. Ejemplo de estas últimas son las 4 [Mapping parties de Zaccesibilidad](project/zaragoza-accesible/) para mapear la accesibilidad de las calles desde el punto de vista de la discapacidad, o el Mapathon humanitario.
 
 Puedes ver el listado de proyectos en [esta página](project).
