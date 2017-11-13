@@ -27,18 +27,6 @@ theme = "beautifulhugo"
 title = "Mapeado Colaborativo"
 weight = 1
 
-
-# [Author]
-#   name = "Carlos Cámara"
-#   website = "carloscamara.es"
-#   email = "youremail@domain.com"
-#   github = "ccamara"
-#   gitlab = "ccamara"
-#   twitter = "carlescamara"
-#   linkedin = "username"
-#   stackoverflow = "users/1913457/ccamara"
-#   telegram = "ccamara"
-
 [Author]
   name = "Mapeado Colaborativo"
   website = "mapcolabora.org"
