@@ -1,9 +1,10 @@
 ---
-title: "Presentación en sociedad en los OpenSource Economic Days"
-date: "2017-06-12"
+title: "Presentación en sociedad en los Open Source Circular Economy Days"
+date: "2017-11-12"
 author: "Carlos Cámara"
 tags:
   - Presentaciones
+draft: true
 ---
 
 Poner aquí un resumen de la presentación.
