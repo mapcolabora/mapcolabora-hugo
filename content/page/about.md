@@ -14,12 +14,12 @@ Los mapas colaborativos son una manera de empoderar y dar voz a la ciudadanía p
 
 ### Cuando y dónde nos reunimos
 
-Nos reunimos los viernes alternos, de 10 a 13 en [ZAC Las Armas](http://www.openstreetmap.org/relation/6627902) (Calle Las Armas, 72). Puedes ver la programación detallada en [nuestro calendario](page/calendario).
+Nos reunimos los viernes alternos, de 10 a 13 en [ZAC Las Armas](http://www.openstreetmap.org/relation/6627902) (Calle Las Armas, 72). Puedes ver la programación detallada en [nuestro calendario](/page/calendario).
 
 <iframe width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=-0.8882644772529603%2C41.65587194529954%2C-0.8837851881980897%2C41.65766551222129&amp;layer=mapnik&amp;marker=41.65676873500387%2C-0.8860248327255249" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=41.65677&amp;mlon=-0.88602#map=19/41.65677/-0.88602">Ver mapa completo en OpenStreetMap</a></small>
 
 ### ¿Qué hacemos?
 
-Desde que empezamos la actividad, en mayo de 2015, hemos realizado varias actividades y proyectos, tanto de formación sobre mapeado voluntario y herramientas/servicios como [OpenStreetMap](/project/manual-osm/), Mapillary o Carto) como, sobre todo, actividades con una fuerte componente social. Ejemplo de estas últimas son las 4 [Mapping parties de Zaccesibilidad](project/zaragoza-accesible/) para mapear la accesibilidad de las calles desde el punto de vista de la discapacidad, o el Mapathon humanitario.
+Desde que empezamos la actividad, en mayo de 2015, hemos realizado varias actividades y proyectos, tanto de formación sobre mapeado voluntario y herramientas/servicios como [OpenStreetMap](/project/manual-osm/), Mapillary o Carto) como, sobre todo, actividades con una fuerte componente social. Ejemplo de estas últimas son las 4 [Mapping parties de Zaccesibilidad](/project/zaragoza-accesible/) para mapear la accesibilidad de las calles desde el punto de vista de la discapacidad, o el Mapathon humanitario.
 
-Puedes ver el listado de proyectos en [esta página](project).
+Puedes ver el listado de proyectos en [esta página](/project).
