@@ -6,7 +6,7 @@ before_script:
 
 pages:
   script:
-  - hugo  --baseURL http://hugo.mapcolabora.org/ --cleanDestinationDir --forceSyncStatic --ignoreCache
+  - hugo --cleanDestinationDir --forceSyncStatic --ignoreCache
   artifacts:
     paths:
     - public
