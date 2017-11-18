@@ -5,6 +5,7 @@ comments: true
 bigimg:
   - {src: "img/cartel-aps.png", desc: "Datos de accesibilidad en Zaragoza"}
   - {src: "img/fieldpapers.jpeg", desc: "Fieldpapers de la I Mapping Party (2016)"}
+  - {src: "img/proyectos/zaccesible/cruce.jpg", desc: "Por donde sentimos, caminamos. Fuente: M. Sevilla (CC-SA)"}
 start_date: 2016-05-01
 coordinators:
   - Carlos Cámara
