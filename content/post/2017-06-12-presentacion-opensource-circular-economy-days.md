@@ -8,7 +8,7 @@ tags:
 
 El pasado 12 de junio, dentro del marco de los [Open Source Circular Economy Days](https://oscedays.org/), presentamos en sociedad tanto el grupo como las actividades que hacemos en Mapeado Colaborativo.
 
-OSCE Days es un evento global que se desarrolla en paralelo en varias ciudades cuyo hilo conductor es la economía circular en código abierto. La edición de Zaragoza de 2017, organizada por [ECODES](http://ecodes.org) y [Zaragoza Activa](http://blogzac.es/) y realizada en [La Remolacha HackLAB](http://laremolachahacklab.com/), tiene por objetivo poner en contacto a creadores, expertos, activistas y profesionales que comparten la filosofía open source en diferentes ámbitos vinculados con la economía circular, el medioambiental, el diseño o la gestión de residuos, entre otros. ¡Y entre ellos no podíamos faltar nosotros!
+OSCE Days es un evento global que se desarrolla en paralelo en varias ciudades cuyo hilo conductor es la economía circular en código abierto. La edición de Zaragoza de 2017, organizada por [ECODES](http://ecodes.org) y [Zaragoza Activa](http://blogzac.es/) y realizada en [La Remolacha HackLAB](http://laremolachahacklab.com/), tiene por objetivo poner en contacto a creadores, expertos, activistas y profesionales que comparten la filosofía open source en diferentes ámbitos vinculados con la economía circular, el medioambiental, el diseño o la gestión de residuos, entre otros. ¡Y entre ellos no podíamos faltar nosotros! <!--more-->
 
 A continuación compartimos la presentación que hicimos.
 
