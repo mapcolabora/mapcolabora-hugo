@@ -21,7 +21,7 @@ Cada hora se hacen nuevas consultas para actualizar el mapa, para que esté siem
 Podéis ver el mapa interactivo debajo o pantalla completa [en este enlace](/Ziclabilidad), en el que podéis seleccionar las capas a visualizar en el menú de la izquierda.
 También os invitamos a contribuir en el proyecto para ayudar a mejorar el mapa entre todos.
 
-<iframe width="100%" height="400px" frameBorder="0" src="http://umap.openstreetmap.fr/es/map/ziclabilidad_141722#16/41.6496/-0.8826?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false"></iframe>
+<iframe width="100%" height="400px" frameBorder="0" src="http://umap.openstreetmap.fr/es/map/ziclabilidad_141722#16/41.6496/-0.8826?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false"></iframe>
 
 
 <!-- Todo: poner snippet para mostrar título de las últimas entradas del blog con la etiqueta ziclabilidad -->
