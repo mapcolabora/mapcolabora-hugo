@@ -16,7 +16,7 @@ Los mapas colaborativos son una manera de empoderar y dar voz a la ciudadanía p
 
 Nos reunimos los viernes alternos, de 10 a 13 en [ZAC Las Armas](http://www.openstreetmap.org/relation/6627902) (Calle Las Armas, 72). Puedes ver la programación detallada en [nuestro calendario](/page/calendario).
 
-<iframe width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=-0.8882644772529603%2C41.65587194529954%2C-0.8837851881980897%2C41.65766551222129&amp;layer=mapnik&amp;marker=41.65676873500387%2C-0.8860248327255249" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=41.65677&amp;mlon=-0.88602#map=19/41.65677/-0.88602">Ver mapa completo en OpenStreetMap</a></small>
+<iframe width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="//www.openstreetmap.org/export/embed.html?bbox=-0.8882644772529603%2C41.65587194529954%2C-0.8837851881980897%2C41.65766551222129&amp;layer=mapnik&amp;marker=41.65676873500387%2C-0.8860248327255249" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=41.65677&amp;mlon=-0.88602#map=19/41.65677/-0.88602">Ver mapa completo en OpenStreetMap</a></small>
 
 ### ¿Qué hacemos?
 
