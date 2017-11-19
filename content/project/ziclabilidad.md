@@ -4,7 +4,7 @@ subtitle: Un mapa interactivo y colaborativo de la infraestructura ciclista de Z
 comments: true
 bigimg:
   - {src: "img/proyectos/ziclabilidad/Ziclabilidad.png", desc: "Mapa interactivo sobre la infraestructura ciclista en Zaragoza"}
-  - {src: "https://d1cuyjsrcm0gby.cloudfront.net/n3r93Bd2EHhBxVKNAAyQUA/thumb-2048.jpg", desc: "Imagen de una estación de alquiler de bicicletas públicas (BiZi)"}
+  - {src: "img/proyectos/ziclabilidad/estacionbizi.jpg", desc: "Imagen de una estación de alquiler de bicicletas públicas BiZi (foto: Héctor Ochoa)"}
 start_date: 2017-11-17
 coordinators:
   - Héctor Ochoa
