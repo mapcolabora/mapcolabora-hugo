@@ -21,6 +21,9 @@ theme = "beautifulhugo"
 [[Params.bigimg]]
  src = "img/fieldpapers.jpeg"
  desc = "Fieldpapers de la I Mapping Party (2016)"
+[[Params.bigimg]]
+ src = "img/proyectos/ziclabilidad/Ziclabilidad.png"
+ desc = "Mapa interactivo sobre la infraestructura ciclista en Zaragoza"
 
 [Languages]
 [Languages.es]
