@@ -1,5 +1,5 @@
 buildDrafts = false
-baseurl = "https://mapcolabora.org/"
+baseurl = "//mapcolabora.org/"
 defaultContentLanguage = "es"
 title = "Mapeado Colaborativo"
 theme = "beautifulhugo"
