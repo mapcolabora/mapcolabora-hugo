@@ -5,6 +5,7 @@ subtitle: "Inicio de la IV Mapping Party en el barrio del Arrabal"
 tags:
   - Zaragoza Activa
   - Zaccesible
+  - Mapping party
 bigimg:
   - {src: "img/proyectos/zaccesible/cruce.jpg", desc: "Por donde sentimos, caminamos. Fuente: M. Sevilla (CC-SA)"}
 ---
