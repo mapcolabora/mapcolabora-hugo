@@ -25,7 +25,7 @@ A continuación explicamos la metodología de toma de datos, que en esta ocasió
 
 {{< tweet 977302454168629250 >}}
 
-Mientras organizábamos los distintos grupos y las zonas para la toma de datos, llegó un equipo de [Aragón en Directo](http://alacarta.aragontelevision.es/programas/aragon-en-abierto/viernes-23-de-marzo-23032018-1801) para contar lo que estábamos haciendo en la Mapping Party. Para ello entrevistaron a organizadores para que contásemos qué estábamos haciendo y cómo lo estábamos haciendo y también a los asistentes, que contaron por qué estaban allí y qué hacían. El resultado se emitió esta misma tarde y puede verse en [este enlace](http://alacarta.aragontelevision.es/programas/aragon-en-abierto/viernes-23-de-marzo-23032018-1801) a partir del minuto 29:30 y da una buena idea de lo que hacemos en las *mapping parties*.
+Mientras organizábamos los distintos grupos y las zonas para la toma de datos, llegó un equipo de [Aragón en Abierto](http://alacarta.aragontelevision.es/programas/aragon-en-abierto/viernes-23-de-marzo-23032018-1801) para contar lo que estábamos haciendo en la Mapping Party. Para ello entrevistaron a organizadores para que contásemos qué estábamos haciendo y cómo lo estábamos haciendo y también a los asistentes, que contaron por qué estaban allí y qué hacían. El resultado se emitió esta misma tarde y puede verse en [este enlace](http://alacarta.aragontelevision.es/programas/aragon-en-abierto/viernes-23-de-marzo-23032018-1801) a partir del minuto 29:30 y da una buena idea de lo que hacemos en las *mapping parties*.
 
 {{< tweet 977142545129070592 >}}
 
