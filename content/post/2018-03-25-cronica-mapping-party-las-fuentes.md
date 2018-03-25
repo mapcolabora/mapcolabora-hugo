@@ -6,8 +6,9 @@ tags: ["Zaccesible", "Mapping party"]
 author: "Carlos Cámara"
 draft: false
 comments: true
-# bigimg:
-#   - {src: "http://zaccesible.usj.es/media/IMG_20160520_101415_1.jpg", desc: "Description here"}
+bigimg:
+  - {src: "img/IMG_20180323_094623.jpg", desc: "Intervención de Laura Moya"}
+  - {src: "img/IMG_20180323_113211.jpg", desc: "Miguel Sevilla dando instrucciones a los grupos, con la TV de invitada."}
 ---
 
 El pasado viernes 23 de Marzo tuvo lugar la V mapping party de [`#Zaccesibilidad`](https://twitter.com/hashtag/zaccesibilidad?src=hash) que realizamos para el proyecto [Zaragoza Accesible](/project/zaragoza-accesible/), que en esta ocasión se realizó en el barrio de Las Fuentes y contó con la participación de la [Universidad San Jorge](http://usj.es), [Mundo Crip](http://mundocrip.blogspot.com.es/), el [Centro Cívico Salvador Allende](https://zaragoza.es/ciudad/centros/detalle_Centro?id=754) y [Discapacitados Sin Fronteras](http://discapacitadossinfronteras.com/), a quienes agradecemos muchísimo su colaboración, y tuvo algunas novedades frente a las anteriores.
