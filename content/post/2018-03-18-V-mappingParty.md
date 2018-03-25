@@ -2,6 +2,7 @@
 title: "Próxima V mapping party #Zaccesibilidad"
 date: 2018-03-18
 subtitle: "El próximo 23 de marzo realizamos una nueva mapping party y estás invitada"
+author: "Carlos Cámara"
 tags:
   - Zaragoza Activa
   - Zaccesible
