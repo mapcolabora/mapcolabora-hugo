@@ -7,6 +7,8 @@ tags:
   - tag
 bigimg:
   desc: This is a description
-  src: /img/screenshot_20180217_233652.png
+  src: ''
 ---
+![]()
+
 This is a text
