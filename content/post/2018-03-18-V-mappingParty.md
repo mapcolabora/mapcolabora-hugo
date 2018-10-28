@@ -12,13 +12,13 @@ bigimg:
   - {src: "img/cartel-aps.png", desc: "Cartel Mapping Party"}
 ---
 
-El próximo viernes 23 de marzo organizamos la V Mapping Party recopilando datos de accesibilidad para el proyecto [Zaragoza Accesible]({{< ref "project/zaragoza-accesible.md" >}}), esta vez en el barrio de Las Fuentes.
+El próximo viernes 23 de marzo organizamos la V Mapping Party recopilando datos de accesibilidad para el proyecto [Zaragoza Accesible]({{< ref "/project/zaragoza-accesible.md" >}}), esta vez en el barrio de Las Fuentes.
 
 Recordamos que las [mapping parties](/tags/mapping-party/) son jornadas abiertas a todo el mundo en el que voluntarios se reúnen para mapear de forma colaborativa y coordinada a través de la plataforma [OpenStreetMap](http://openstreetmap.org).
 
 El objetivo de esta actividad es identificar las barreras arquitectónicas de una zona en concreto para posteriormente subirlas a la plataforma anteriormente citada y que estén en disposición de todo el que necesite dicha información.
 
-En esta actividad los participantes ayudarán a hacer de su ciudad más accesible, ya que con esta toma de datos serán partícipes del proyecto [Zaragoza Accesible](project/zaragoza-accesible) mediante el cual se pretende tener todas las barreras arquitectónicas de Zaragoza reflejadas en un Mapa a disposición de todo aquel que lo necesite.
+En esta actividad los participantes ayudarán a hacer de su ciudad más accesible, ya que con esta toma de datos serán partícipes del proyecto [Zaragoza Accesible]({{< ref "/project/zaragoza-accesible.md" >}}) mediante el cual se pretende tener todas las barreras arquitectónicas de Zaragoza reflejadas en un Mapa a disposición de todo aquel que lo necesite.
 
 Antes de iniciar la sesión realizaremos una breve explicación de la metodología a seguir, crearemos grupos de mapeo y empezaremos con la toma de datos y para finalizar la jornada haremos una puesta en común comentando impresiones.
 
