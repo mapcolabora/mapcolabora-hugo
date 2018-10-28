@@ -1,14 +1,19 @@
 ---
 title: Zaragoza Accesible
 subtitle: Un mapa de accesibilidad abierto y colaborativo de Zaragoza.
-comments: true
+tags:
+  - accesibilidad
+  - OpenStreetMap
 bigimg:
-  - {src: "img/cartel-aps.png", desc: "Datos de accesibilidad en Zaragoza"}
-  - {src: "img/proyectos/zaccesible/cruce.jpg", desc: "Por donde sentimos, caminamos. Fuente: M. Sevilla (CC-SA)"}
-  - {src: "img/fieldpapers.jpeg", desc: "Fieldpapers de la I Mapping Party (2016)"}
-start_date: 2016-05-01
+  - desc: Datos de accesibilidad en Zaragoza
+    src: img/cartel-aps.png
+  - desc: 'Por donde sentimos, caminamos. Fuente: M. Sevilla (CC-SA)'
+    src: img/proyectos/zaccesible/cruce.jpg
+  - desc: Fieldpapers de la I Mapping Party (2016)
+    src: img/fieldpapers.jpeg
 coordinators:
   - Carlos Cámara
+comments: true
 ---
 
 **Zaragoza Accesible** es un proyecto de mapeado colaborativo de aspectos relacionados con la discapacidad y la movilidad en Zaragoza desarrollado conjuntamente con el grupo de investigación *Arquitecturas OpenSource* de la Escuela de Arquitectura y Tecnología de la [Universidad San Jorge](http://usj.es).
