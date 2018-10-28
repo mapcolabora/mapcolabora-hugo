@@ -2,7 +2,7 @@
 title: Test with netlify
 subtitle: subtitle
 date: 2018-10-28T18:29:58.847Z
-draft: false
+draft: true
 tags:
   - tag1
   - tag2
