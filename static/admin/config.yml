@@ -40,16 +40,7 @@ collections:
       - label: "Header image"
         name: "bigimg"
         required: false
-        widget: object
-        fields:
-          - label: "Image source"
-            name: "src"
-            required: false
-            widget:  "image"
-          - label: "Description"
-            name: "desc"
-            required: false
-            widget: "string"
+        widget: image
       - label: "Body"
         name: "body"
         widget: "markdown"
