@@ -40,7 +40,19 @@ collections:
       - label: "Header image"
         name: "bigimg"
         required: false
-        widget: image
+        widget: object
+        allow_add: true
+        fields:
+        - widget: object
+          name: item
+          label: 'Image Item'
+          fields:
+            - widget: image
+              name: src
+              label: 'Image Source Path'
+            - widget: string
+              name: desc
+              label: Description
       - label: "Body"
         name: "body"
         widget: "markdown"
