@@ -1,14 +1,14 @@
 [build]
   publish = "public"
-  command = "hugo --config=config/_default/config.toml"
+  command = "hugo"
 
 [context.build]
   HUGO_VERSION = "0.53"
 
 [context.production.environment]
-  HUGO_VERSION = "0.53"
+  HUGO_VERSION = "0.54"
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
 
   [context.deploy-preview.environment]
-  HUGO_VERSION = "0.53"
+  HUGO_VERSION = "0.54"
