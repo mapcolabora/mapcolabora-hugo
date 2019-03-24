@@ -3,10 +3,10 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
 title = "Proyectos"
-subtitle = ""
+subtitle = "Estos son algunos de los proyectos impulsados desde Mapeado Colaborativo. Si quieres proponernos algún proyecto, anímate a escribirnos a mapcolabora <arroba> gmail.com y explícanos cómo te gustaría participar en el desarrollo del grupo. O mejor, mándalo a la [lista de correo](https://groups.google.com/forum/#%21forum/mapeado-colaborativo) y así otros puedan sumarse al proyecto."
 
 [content]
   # Page type to display. E.g. project.

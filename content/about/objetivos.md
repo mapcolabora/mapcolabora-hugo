@@ -6,14 +6,14 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
-title = ""
-subtitle = "Nuevas cartografías colaborativas al alcance de todos"
+title = "Objetivos del grupo"
+subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -29,8 +29,8 @@ subtitle = "Nuevas cartografías colaborativas al alcance de todos"
   # gradient_end = "SkyBlue"
 
   # Background image.
-  image = "headers/bubbles-wide.jpg"  # Name of image in `static/img/`.
-  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  # image = ""  # Name of image in `static/img/`.
+  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   text_color_light = true
@@ -43,4 +43,8 @@ subtitle = "Nuevas cartografías colaborativas al alcance de todos"
  css_class = ""
 +++
 
-Mapeado Colaborativo es uno de los grupos residentes en Zaragoza Activa que nace en marzo de 2016 como grupo de investigación/acción para la innovación ciudadana y la canalización de la inteligencia colectiva. Su fin es la creación de mapas colaborativos al servicio de la ciudadanía, a través de la concienciación sobre la importancia de la información geográfica en nuestro día a día y la promoción de herramientas y conocimientos para que colectivos y personas tengan la capacidad de realizar procesos de generación de información geográfica voluntaria y participativa. Si quieres saber más, visita la página de Acerca de.
+* Proporcionar herramientas y conocimientos para empoderar a distintos colectivos y personas en el proceso de generación información geográfica voluntaria y participativa
+* Consolidar un grupo de trabajo con personas interesadas por el territorio (tanto en el ámbito urbano como en el rural), la información geográfica, la cartografía y las iniciativas colaborativas. En suma, consolidar un grupo para el mapeado
+colaborativo --> Consolidar un grupo local de colaboradores de OpenStreetMap y/o un Geoinquietos local
+* Establecer una red de colaboraciones entre distintos colectivos y personas afines al grupo de trabajo.
+* Tomar conciencia de la importancia y el poder de la información geográfica en casi todos los aspectos de nuestras vidas
