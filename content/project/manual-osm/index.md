@@ -1,15 +1,53 @@
----
-title: Manual OpenStreetMap
-subtitle: Un mapa de accesibilidad abierto y colaborativo de Zaragoza.
-comments: true
-bigimg:
-  - {src: "img/proyectos/manual-osm/book-01.jpg", desc: "Fuente: http://weknowyourdreams.com/single/book/book-01"}
-start_date: 2017-01-01
-coordinators:
-  - Alejandro Suárez
-  - Miguel Sevilla
-  - Carlos Cámara
----
++++
+# Project title.
+title = "Manual de OSM"
+
+# Username (this should match the folder name)
+authors = ["carlos-camara", "miguel-sevilla", "hector-ochoa", "alejandro-suarez"]
+
+# Date this page was created.
+date = 2016-11-14T00:00:00
+
+# Project summary to display on homepage.
+summary = "Coordinación y edición de un manual de introducción a OpenStreetMap realizado de forma colaborativa y abierta con el objetivo de romper las barreras de acceso a OSM y ponerlo al alcance de todo el mundo"
+
+# Tags: can be used for filtering projects.
+# Example: `tags = ["machine-learning", "deep-learning"]`
+tags = ["OpenStreetMap", "paralizado"]
+
+# Optional external URL for project (replaces project detail page).
+external_link = ""
+
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references
+#   `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides = ""
+
+# Links (optional).
+url_pdf = ""
+url_slides = ""
+url_video = ""
+url_code = ""
+
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+links = [{icon_pack = "fas", icon="book", name="Ver manual", url = "https://mapcolabora.gitbooks.io/manual-osm/content/"}]
+
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your project's folder.
+[image]
+  # Caption (optional)
+  caption = ""
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = "Smart"
++++
 
 Coordinación y edición de un manual de introducción a OpenStreetMap realizado de forma colaborativa y abierta con el objetivo de romper las barreras de acceso a OSM y ponerlo al alcance de todo el mundo.
 

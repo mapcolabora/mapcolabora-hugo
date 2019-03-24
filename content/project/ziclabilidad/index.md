@@ -13,7 +13,7 @@ summary = "Un mapa interactivo y colaborativo de la infraestructura ciclista de 
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Movilidad", "Bicicletas", "OpenStreetMap"]
+tags = ["Movilidad", "Bicicletas", "OpenStreetMap", "finalizado"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

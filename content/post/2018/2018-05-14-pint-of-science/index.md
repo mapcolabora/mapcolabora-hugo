@@ -1,15 +1,40 @@
----
-title: "Mapeado colaborativo en el Pint of Science 2018"
-date: 2018-05-19T15:55:02+02:00
-subtitle: "Sobre sillas, sillitas, bordillos y semáforos sonoros. #zaccesibilidad para la mejora de la movilidad de las personas con diversidad funcional"
-tags: []
-author: ["Carlos Cámara"]
-draft: false
-comments: true
-bigimg:
-   - {src: "img/pint-of-science-2018.jpg", desc: "Miguel abre la intervención sobre zaccesibilidad"}
-   - {src: "img/pint-of-science-2018-02.jpg", desc: "Tenemos un problema cuando no existen mapas sobre discapacidad"}
----
++++
+title = "Mapeado colaborativo en el Pint of Science 2018"
+subtitle = "Sobre sillas, sillitas, bordillos y semáforos sonoros. #zaccesibilidad para la mejora de la movilidad de las personas con diversidad funcional"
+
+date = 2018-05-19T15:55:02
+lastmod = 2018-01-13T00:00:00
+draft = false
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["carlos-camara"]
+
+tags = ["zaccesible", "crónicas", "OpenStreetMap"]
+summary = "Sobre sillas, sillitas, bordillos y semáforos sonoros. #zaccesibilidad para la mejora de la movilidad de las personas con diversidad funcional"
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["deep-learning"]` references
+#   `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects = ["zaccesible"]
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your project's folder.
+[image]
+  # Caption (optional)
+  caption = "Miguel abre la intervención sobre zaccesibilidad."
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = "Center"
+
+  # Show image only in page previews?
+  preview_only = false
+
++++
+
 El pasado 14 de mayo, Miguel y yo (Carlos), participamos en representación de Mapeado Colaborativo en el festival *Pint of Science 2018*. Para quienes no lo conozcan, Pint of Science es un festival que nació en Reino Unido en 2012 para acercar la ciencia a la sociedad y desde entonces se celebra anualmente y de forma simultánea en 21 países.  La particularidad del festival consiste en que, durante tres días seguidos, se programa varias comunicaciones entre los bares de distintas ciudades en las que varios científicos explican su trabajo a los asistentes durante unos 15 minutos y luego se abre un debate entre las omnipresentes cervezas que pueblan la mayoría de bares del mundo (de ahí su nombre).
 
 {{< tweet 995937248876036096 >}}

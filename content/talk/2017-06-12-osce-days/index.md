@@ -53,7 +53,7 @@ url_slides = ""
 projects = [""]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "/files/20170612presentacion.pdf"
 url_video = ""
 url_code = ""
 

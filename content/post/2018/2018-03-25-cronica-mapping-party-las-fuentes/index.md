@@ -1,15 +1,39 @@
----
-title: "Crónica V Mapping Party Zaccesibilidad en Las Fuentes"
-date: 2018-03-24T19:02:42+01:00
-subtitle: "Contamos cómo fue la sesión y algunas de las novedades que introdujimos"
-tags: ["Zaccesible", "Mapping party"]
-author: "Carlos Cámara"
-draft: false
-comments: true
-bigimg:
-  - {src: "img/IMG_20180323_094623.jpg", desc: "Intervención de Laura Moya"}
-  - {src: "img/IMG_20180323_113211.jpg", desc: "Miguel Sevilla dando instrucciones a los grupos, con la TV de invitada."}
----
++++
+title = "Crónica V Mapping Party Zaccesibilidad en Las Fuentes"
+subtitle = "Contamos cómo fue la sesión y algunas de las novedades que introdujimos"
+
+date = 2018-03-24T19:02:42
+lastmod = 2018-01-13T00:00:00
+draft = false
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["carlos-camara"]
+
+tags = ["zaccesible", "mapping party", "OpenStreetMap"]
+summary = "Contamos cómo fue la sesión y algunas de las novedades que introdujimos"
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["deep-learning"]` references
+#   `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects = ["zaccesible"]
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your project's folder.
+[image]
+  # Caption (optional)
+  caption = "Miguel Sevilla dando instrucciones a los grupos, con la TV de invitada."
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = "Center"
+
+  # Show image only in page previews?
+  preview_only = false
+
++++
 
 El pasado viernes 23 de Marzo tuvo lugar la V mapping party de [`#Zaccesibilidad`](https://twitter.com/hashtag/zaccesibilidad?src=hash) que realizamos para el proyecto [Zaragoza Accesible](/project/zaragoza-accesible/), que en esta ocasión se realizó en el barrio de Las Fuentes y contó con la participación de la [Universidad San Jorge](http://usj.es), [Mundo Crip](http://mundocrip.blogspot.com.es/), el [Centro Cívico Salvador Allende](https://zaragoza.es/ciudad/centros/detalle_Centro?id=754) y [Discapacitados Sin Fronteras](http://discapacitadossinfronteras.com/), a quienes agradecemos muchísimo su colaboración, y tuvo algunas novedades frente a las anteriores.
 

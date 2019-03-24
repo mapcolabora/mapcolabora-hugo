@@ -12,7 +12,7 @@ summary = "Un mapa de accesibilidad abierto y colaborativo de Zaragoza."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Movilidad", "Discapacidad", "OpenStreetMap"]
+tags = ["Movilidad", "Discapacidad", "OpenStreetMap", "en curso"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

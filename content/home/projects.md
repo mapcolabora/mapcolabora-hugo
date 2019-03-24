@@ -19,19 +19,27 @@ subtitle = ""
   # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
 
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
-  filter_default = 0
+  filter_default = 1
 
   [[content.filter_button]]
     name = "Todos"
     tag = "*"
 
   [[content.filter_button]]
-    name = "Movilidad"
-    tag = "Movilidad"
+    name = "En Curso"
+    tag = "en curso"
 
   [[content.filter_button]]
-    name = "Other"
-    tag = "Demo"
+    name = "Paralizados"
+    tag = "paralizado"
+
+  [[content.filter_button]]
+    name = "Finalizados"
+    tag = "finalizado"
+
+  [[content.filter_button]]
+    name = "Movilidad"
+    tag = "Movilidad"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
