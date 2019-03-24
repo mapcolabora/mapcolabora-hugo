@@ -1,6 +1,6 @@
 [build]
   publish = "public"
-  command = "hugo"
+  command = "hugo --config=config/_default/config.toml"
 
 [context.build]
   HUGO_VERSION = "0.53"
